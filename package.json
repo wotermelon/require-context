@@ -1,0 +1,24 @@
+{
+  "name": "@wotermelon/require-context",
+  "version": "1.0.0",
+  "description": "require.context for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wotermelon/require-context.git"
+  },
+  "keywords": [
+    "require",
+    "context",
+    "require.context",
+    "require-context"
+  ],
+  "author": "wotermelon",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  }
+}
