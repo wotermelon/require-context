@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm install require-context
+npm install @wotermelon/require-context
 ```
 
 ### Quick Start
